@@ -77,8 +77,6 @@ for i = 1, #value0 do
     end
 end
 
-
-
 printArray(value0, "value0 ")
 printArray(value3, "value3 ")
 printArray(value4, "anewer ")

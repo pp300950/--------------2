@@ -1,16 +1,3 @@
---local myArray = {10, 20, 30, 40, 50}
---for i = 1, #myArray do
---    print(myArray[i])
---end
-
---local str = "1001"
---local value1 = {}
---for i = 1, #str do
---    value1[i] = tonumber(str:sub(i, i))
---end
-
--- table.insert(myArray, 5)
-
 
 --local value1 = {1, 0, 0, 1}
 --local value2 = {1, 0, 0, 0, 0, 0, 0, 0, 1}

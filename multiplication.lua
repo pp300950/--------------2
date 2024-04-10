@@ -25,5 +25,4 @@ for i = #value2, 1, -1 do -- วนลูปจากตำแหน่งสุ
     end
 
     printArray(answer, "answer 1 ")
-    
 end
