@@ -1,4 +1,4 @@
-local value1 = 13
+local value1 = 135
 local replacementValues = { 1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1 }
 local answer = {}
 local sum = 0
